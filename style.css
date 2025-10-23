@@ -1,5 +1,16 @@
 body{
-background-color: rgb(255, 7, 110);
+background-color: rgb(236, 30, 82);
 color:white;
 font-family: "Bebas Neue", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button{
+    background-color: lightcoral;
+    color: black;
+    font-family: "Bebas Neue", sans-serif;
 }
